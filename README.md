@@ -1,1 +1,1 @@
-qwerty
+Hello, Hexlet! How are you?
